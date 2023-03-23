@@ -1,7 +1,7 @@
 ### Hi, I'm Wangfan 👋
 Hello, I am a computer science and technology major student from Fuzhou University
 I currently focus on front-end development, and my best language is javascript. I love everything related to front-end development, and welcome to discuss it with me！！！
-  <span > <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript">
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript">
 <!--
 **233333-doge/233333-doge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
