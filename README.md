@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi Wangfan 👋
+Hello, I am a computer science and technology major student from Fuzhou University
 
+I currently focus on front-end development, and my best language is javascript. I love everything related to front-end development, and welcome to discuss it with me！！！
 <!--
 **233333-doge/233333-doge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
