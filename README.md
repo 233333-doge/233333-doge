@@ -1,6 +1,4 @@
 ### Hi, I'm  WANG FAN ，from Fuzhou University👋
-Hello, I am a computer science and technology major student from Fuzhou University
-I currently focus on front-end development, and my best language is javascript. I love everything related to front-end development, and welcome to discuss it with me！！！
 <br/>
 
 <!--
